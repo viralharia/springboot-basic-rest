@@ -31,3 +31,4 @@ mvnw test
 2. Creating POSTMAN collection json file to test all REST services
 3. Supporting JSON and XML output both
 4. Authentication apis
+5. Deploy the application on AWS

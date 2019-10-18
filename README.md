@@ -2,7 +2,7 @@
 A minimalist example of REST layer in Spring Boot showing how to capture various parts of Http request like query parameters, 
 request headers, path parameters, form parameters, request body etc.
 		
-It also illustrates testing of application's REST layer using Junit, Hamcrest and JsonPath.
+It also illustrates testing of application's REST layer using Junit, Hamcrest and [JsonPath](https://github.com/json-path/JsonPath).
 		
 ## Running application locally
 ```

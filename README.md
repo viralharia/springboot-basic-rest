@@ -1,4 +1,4 @@
-# springboot-basic-rest		
+# springboot-basic-rest	![travis status](https://travis-ci.org/viralharia/springboot-basic-rest.svg?branch=master)	
 A minimalist example of REST layer in Spring Boot showing how to capture various parts of Http request like query parameters, 
 request headers, path parameters, form parameters, request body etc.
 		

@@ -32,3 +32,4 @@ mvnw test
 3. Supporting JSON and XML output both
 4. Authentication apis
 5. Deploy the application on AWS
+6. setup Travis CI
